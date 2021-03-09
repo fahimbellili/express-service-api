@@ -17,3 +17,4 @@ The following routes allow us to request the api and get results in JSON:
 Note: 
 * The pagination est very useful for improving rendering of a large JSON.
 * The API does not support xml format.
+* I provided the .env file to access the database.
