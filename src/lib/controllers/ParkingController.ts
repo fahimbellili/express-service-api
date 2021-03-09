@@ -1,6 +1,5 @@
 import { Router, Request, Response } from 'express';
 import axios from 'axios';
-import * as xmlParser from 'xml2json';
 
 import { parking_get_url } from '../../conf/url.conf';
 
